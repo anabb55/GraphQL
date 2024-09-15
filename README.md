@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 **Installation**
 1. Clone this repository:
 ```javascript
-git clone https://github.com/your-username/graphql-mongoose-api.git
-cd graphql-mongoose-api
+git clone https://github.com/anabb55/GraphQL.git
+cd GraphQL
 ```
 
 2. Instal dependencies:
