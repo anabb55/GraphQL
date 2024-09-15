@@ -4,8 +4,22 @@ This project is a simple GraphQL API for managing users, built using Apollo Serv
 # Features
 - **GraphQL API:** A flexible GraphQL API for managing user data, with queries and mutations.
 - **User Management:**
-     Create users with a name and email.
-     Retrieve all users.
-     Filter users by name (with regex for partial matching) and email (exact match).
+    - Create users with a name and email.
+    - Retrieve all users.
+    - Filter users by name (with regex for partial matching) and email (exact match).
 - **MongoDB:** Data persistence using MongoDB, a NoSQL database.
 - **Mongoose:** MongoDB object modeling for Node.js, providing schema-based data validation.
+
+# Setup
+To run this project locally, follow these steps:
+
+**Prerequisites**
+- **Node.js** installed (v14 or higher)
+- **MongoDB** Atlas account (or a locally installed MongoDB server)
+  
+**Installation**
+1. Clone this repository:
+```javascript
+git clone https://github.com/your-username/graphql-mongoose-api.git
+cd graphql-mongoose-api
+```
