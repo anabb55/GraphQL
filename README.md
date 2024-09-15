@@ -1,8 +1,8 @@
-#GraphQL API with Apollo Server, MongoDB, and Mongoose
+# GraphQL API with Apollo Server, MongoDB, and Mongoose
 This project is a simple GraphQL API for managing users, built using Apollo Server, MongoDB, and Mongoose. The API allows you to create new users and retrieve existing users, with the ability to filter by name and email.
 
-#Features
-GraphQL API: A flexible GraphQL API for managing user data, with queries and mutations.
+# Features
+1. GraphQL API: A flexible GraphQL API for managing user data, with queries and mutations.
 User Management:
 Create users with a name and email.
 Retrieve all users.
