@@ -37,6 +37,6 @@ const MONGODB =
 ```
 
 4. Run the server:
-     ```javascript
+```javascript
 npm start
 ```
