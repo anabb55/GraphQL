@@ -7,6 +7,7 @@ This project is a simple GraphQL API for managing users, built using Apollo Serv
     - Create users with a name and email.
     - Retrieve all users.
     - Filter users by name (with regex for partial matching) and email (exact match).
+    - Delete user by ID
 - **MongoDB:** Data persistence using MongoDB, a NoSQL database.
 - **Mongoose:** MongoDB object modeling for Node.js, providing schema-based data validation.
 
