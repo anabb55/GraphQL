@@ -23,3 +23,20 @@ To run this project locally, follow these steps:
 git clone https://github.com/your-username/graphql-mongoose-api.git
 cd graphql-mongoose-api
 ```
+
+2. Instal dependencies:
+  ```javascript
+npm install
+```
+
+3. Set up your MongoDB connection:
+Replace the MONGODB connection string with your own MongoDB Atlas or local MongoDB URI in the index.js file:
+ ```javascript
+const MONGODB =
+  "your-mongodb-connection-string";
+```
+
+4. Run the server:
+     ```javascript
+npm start
+```
